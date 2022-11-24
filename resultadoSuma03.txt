@@ -1,0 +1,2 @@
+Sumando de 1 hasta 10
+Resultado de este sumador: 55
